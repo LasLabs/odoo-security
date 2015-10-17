@@ -1,0 +1,1 @@
+This module provides loggging for permission changes in order to comply with PCI and other regulatory requirements.
